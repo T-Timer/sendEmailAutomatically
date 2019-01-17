@@ -1,15 +1,15 @@
 
 
 ------------------------------------------------|
-												|
+												
 Welcome to the auto send email application. 	|
-												|
+												
 ------------------------------------------------|
 
 Please read this before using the application.
 
 ------------------------------------------------|
-Introduction and instructions					|
+Introduction and instructions					
 ------------------------------------------------|
 
 
@@ -32,6 +32,7 @@ The mail won't be sent if you:
 1) Get the username or password wrong
 2) Have no text in the message body
 3) Your date or time does not exist. E.g: setting month = 20 or setting hour = 50
+4) Close the program. You need to leave the program open for it to work.
 
 That's all from me. Please enjoy the application!
 
